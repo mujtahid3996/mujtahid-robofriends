@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mujtahid-robofriends/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/mujtahid-robofriends/static/js/main.85b100c2.chunk.js",
+    "main.js.map": "/mujtahid-robofriends/static/js/main.85b100c2.chunk.js.map",
+    "runtime-main.js": "/mujtahid-robofriends/static/js/runtime-main.615cc600.js",
+    "runtime-main.js.map": "/mujtahid-robofriends/static/js/runtime-main.615cc600.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/mujtahid-robofriends/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.68377f54.chunk.js": "/mujtahid-robofriends/static/js/2.68377f54.chunk.js",
+    "static/js/2.68377f54.chunk.js.map": "/mujtahid-robofriends/static/js/2.68377f54.chunk.js.map",
+    "static/js/3.1242b64d.chunk.js": "/mujtahid-robofriends/static/js/3.1242b64d.chunk.js",
+    "static/js/3.1242b64d.chunk.js.map": "/mujtahid-robofriends/static/js/3.1242b64d.chunk.js.map",
+    "index.html": "/mujtahid-robofriends/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/mujtahid-robofriends/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/mujtahid-robofriends/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.68377f54.chunk.js.LICENSE.txt": "/mujtahid-robofriends/static/js/2.68377f54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.615cc600.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.68377f54.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.85b100c2.chunk.js"
+  ]
+}
